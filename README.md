@@ -2,7 +2,8 @@
 This project analyzes Indonesia's monthly inflation trends from January 2019 to December 2024, based on official data provided by Bank Indonesia.
 
 ## Data Source:
-Bank Indonesia Inflation Data
+**[Data Link](https://www.bi.go.id/id/statistik/indikator/data-inflasi.aspx)**
+
 The workflow covers:
 - ✅ Data Acquisition
 - ✅ Data Cleaning & Transformation
